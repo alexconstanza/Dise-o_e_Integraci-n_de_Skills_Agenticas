@@ -402,26 +402,8 @@ completamente operativo.
 Crear la
 estructura de archivos y carpetas especificada al inicio de este documento de
 la siguiente manera:
-agent-api-project/
-│
-├──
-.github/
-│   └── skills/
-│       ├── SKILL.md
-│       └── prompt_purifier.py
-│
-├──
-app/
-│   ├── __init__.py
-│   ├── config.py
-│   ├── main.py
-│   ├── schemas.py
-│   └── routes.py
-│
-├──
-README.md
-└──
-requirements.txt
+<img width="307" height="354" alt="image" src="https://github.com/user-attachments/assets/19ef5810-3208-47c7-b217-691f6c517bd7" />
+
  
 En terminal
 propia de VS Code Crea el entorno virtual ejecutando: python -m venv venv
