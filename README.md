@@ -16,22 +16,8 @@ de inyección de prompts o fugas de información.
 Estructura del Proyecto
 Esta es la
 distribución de archivos que debes replicar en tu entorno de desarrollo:
-agent-api-project/
-│
-├── .github/
-│   └── skills/
-│       ├── SKILL.md
-│       └── prompt_purifier.py
-│
-├── app/
-│   ├── __init__.py
-│   ├── config.py
-│   ├── main.py
-│   ├── schemas.py
-│   └── routes.py
-│
-├── README.md
-└── requirements.txt
+<img width="307" height="354" alt="image" src="https://github.com/user-attachments/assets/c622b151-d497-4bdf-a480-e493e156eb75" />
+
 
 Código Fuente de la API (FastAPI)
 1. Dependencias (requirements.txt)
