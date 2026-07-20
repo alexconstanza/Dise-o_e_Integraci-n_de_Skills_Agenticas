@@ -485,7 +485,6 @@ el endpoint /api/v1/purify enviando un
 texto normal y luego uno con un correo electrónico (ej. hola@correo.com) para
 verificar cómo la API responde y genera el campo sanitized_text con la etiqueta [REDACTED_EMAIL].'''
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(raw_text)
+
 
 print("README.md generated successfully.")
