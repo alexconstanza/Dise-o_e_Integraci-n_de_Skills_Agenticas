@@ -402,6 +402,7 @@ completamente operativo.
 Crear la
 estructura de archivos y carpetas especificada al inicio de este documento de
 la siguiente manera:
+
 <img width="307" height="354" alt="image" src="https://github.com/user-attachments/assets/19ef5810-3208-47c7-b217-691f6c517bd7" />
 
  
